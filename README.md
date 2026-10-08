@@ -24,8 +24,6 @@ A time-series forecasting project examining India's inflation gap relative to th
 
 The project evaluates model forecasting performance against a 12-month holdout sample and generates forward forecasts for India's inflation rate.
 
-![Inflation Forecast](inflation_forecast.png)
-
 ## Tools
 
 R · Time-Series Analysis · ARMA · Forecasting
